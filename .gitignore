@@ -1,0 +1,4 @@
+*.pyc
+example/
+results.csv
+.venv
